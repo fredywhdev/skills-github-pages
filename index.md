@@ -1,4 +1,4 @@
-title: Welcome to my blog
-autor: Fredy Hernandez
-
-
+---
+title: "Welcome to my blog"
+date: 2019-01-20
+---
